@@ -1,0 +1,11 @@
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\bin\Debug\netcoreapp2.0\LeavesInDLL.deps.json
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\bin\Debug\netcoreapp2.0\LeavesInDLL.runtimeconfig.json
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\bin\Debug\netcoreapp2.0\LeavesInDLL.runtimeconfig.dev.json
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\bin\Debug\netcoreapp2.0\LeavesInDLL.dll
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\bin\Debug\netcoreapp2.0\LeavesInDLL.pdb
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.csprojAssemblyReference.cache
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.csproj.CoreCompileInputs.cache
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.AssemblyInfoInputs.cache
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.AssemblyInfo.cs
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.dll
+C:\Users\gibeulah\source\repos\LeavesInDLL\LeavesInDLL\obj\Debug\netcoreapp2.0\LeavesInDLL.pdb
